@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "/home/ai/SalesTransactionProject/SalesTransaction/wwwroot/README.md",
+      "PackagePath": "staticwebassets/README.md"
+    },
+    {
+      "Id": "/home/ai/SalesTransactionProject/SalesTransaction/wwwroot/eslint.config.js",
+      "PackagePath": "staticwebassets/eslint.config.js"
+    },
+    {
+      "Id": "/home/ai/SalesTransactionProject/SalesTransaction/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/ai/SalesTransactionProject/SalesTransaction/wwwroot/package-lock.json",
+      "PackagePath": "staticwebassets/package-lock.json"
+    },
+    {
+      "Id": "/home/ai/SalesTransactionProject/SalesTransaction/wwwroot/package.json",
+      "PackagePath": "staticwebassets/package.json"
+    },
+    {
+      "Id": "/home/ai/SalesTransactionProject/SalesTransaction/wwwroot/public/vite.svg",
+      "PackagePath": "staticwebassets/public/vite.svg"
+    },
+    {
+      "Id": "/home/ai/SalesTransactionProject/SalesTransaction/wwwroot/src/App.css",
+      "PackagePath": "staticwebassets/src/App.css"
+    },
+    {
+      "Id": "/home/ai/SalesTransactionProject/SalesTransaction/wwwroot/src/App.jsx",
+      "PackagePath": "staticwebassets/src/App.jsx"
+    },
+    {
+      "Id": "/home/ai/SalesTransactionProject/SalesTransaction/wwwroot/src/assets/react.svg",
+      "PackagePath": "staticwebassets/src/assets/react.svg"
+    },
+    {
+      "Id": "/home/ai/SalesTransactionProject/SalesTransaction/wwwroot/src/index.css",
+      "PackagePath": "staticwebassets/src/index.css"
+    },
+    {
+      "Id": "/home/ai/SalesTransactionProject/SalesTransaction/wwwroot/src/main.jsx",
+      "PackagePath": "staticwebassets/src/main.jsx"
+    },
+    {
+      "Id": "/home/ai/SalesTransactionProject/SalesTransaction/wwwroot/src/views/Login/Login.jsx",
+      "PackagePath": "staticwebassets/src/views/Login/Login.jsx"
+    },
+    {
+      "Id": "/home/ai/SalesTransactionProject/SalesTransaction/wwwroot/vite.config.js",
+      "PackagePath": "staticwebassets/vite.config.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SalesTransaction.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SalesTransaction.props",
+      "PackagePath": "build\\SalesTransaction.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SalesTransaction.props",
+      "PackagePath": "buildMultiTargeting\\SalesTransaction.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SalesTransaction.props",
+      "PackagePath": "buildTransitive\\SalesTransaction.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
